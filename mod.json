@@ -19,7 +19,7 @@
                                       "quality-of-life",
                                       "ui"
                                   ],
-                       "latestTag":  null
+                       "latestTag":  "v0.1.1"
                    },
     "distribution":  {
                          "nexus":  {
@@ -63,7 +63,7 @@
                         "gameIntegration":  "Foundation"
                     },
     "publishing":  {
-                       "githubReleases":  null,
+                       "githubReleases":  "https://github.com/KingdomIncModding/DeadEnd/releases/tag/v0.1.1",
                        "nexusMods":  "https://www.nexusmods.com/kingdominc/mods/31"
                    }
 }
